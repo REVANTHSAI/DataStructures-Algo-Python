@@ -96,10 +96,3 @@ if __name__ == "__main__":
     ll.insert_before_item("H1","InsertedBefore")
     ll.insert_after_item("H1","InsertedAfter")
     ll.traverse_linkedList()
-
-
-
-
-
-#   Inserting Item after another Item
-#   Inserting Item before another Item
